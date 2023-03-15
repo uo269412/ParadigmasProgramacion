@@ -1,0 +1,7 @@
+C:\Users\uo269412\Desktop\Lab01\object.oriented\hello.world\bin\Debug\hello.world.exe.config
+C:\Users\uo269412\Desktop\Lab01\object.oriented\hello.world\bin\Debug\hello.world.exe
+C:\Users\uo269412\Desktop\Lab01\object.oriented\hello.world\bin\Debug\hello.world.pdb
+C:\Users\uo269412\Desktop\Lab01\object.oriented\hello.world\obj\Debug\hello.world.csprojAssemblyReference.cache
+C:\Users\uo269412\Desktop\Lab01\object.oriented\hello.world\obj\Debug\hello.world.csproj.CoreCompileInputs.cache
+C:\Users\uo269412\Desktop\Lab01\object.oriented\hello.world\obj\Debug\hello.world.exe
+C:\Users\uo269412\Desktop\Lab01\object.oriented\hello.world\obj\Debug\hello.world.pdb

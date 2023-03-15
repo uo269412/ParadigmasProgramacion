@@ -1,0 +1,12 @@
+E:\TPP\Lab01\object.oriented\angle\bin\Debug\angle.dll
+E:\TPP\Lab01\object.oriented\angle\bin\Debug\angle.pdb
+E:\TPP\Lab01\object.oriented\angle\obj\Debug\node.csprojAssemblyReference.cache
+E:\TPP\Lab01\object.oriented\angle\obj\Debug\UserControl1.g.cs
+E:\TPP\Lab01\object.oriented\angle\obj\Debug\angle_MarkupCompile.cache
+E:\TPP\Lab01\object.oriented\angle\obj\Debug\angle_MarkupCompile.lref
+E:\TPP\Lab01\object.oriented\angle\obj\Debug\UserControl1.baml
+E:\TPP\Lab01\object.oriented\angle\obj\Debug\angle.g.resources
+E:\TPP\Lab01\object.oriented\angle\obj\Debug\angle.Properties.Resources.resources
+E:\TPP\Lab01\object.oriented\angle\obj\Debug\node.csproj.GenerateResource.cache
+E:\TPP\Lab01\object.oriented\angle\obj\Debug\angle.dll
+E:\TPP\Lab01\object.oriented\angle\obj\Debug\angle.pdb

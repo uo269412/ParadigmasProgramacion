@@ -1,0 +1,10 @@
+C:\Users\uo269412\Desktop\Lab01\object.oriented\use.angle\bin\Debug\use.angle.exe.config
+C:\Users\uo269412\Desktop\Lab01\object.oriented\use.angle\bin\Debug\use.angle.exe
+C:\Users\uo269412\Desktop\Lab01\object.oriented\use.angle\bin\Debug\use.angle.pdb
+C:\Users\uo269412\Desktop\Lab01\object.oriented\use.angle\bin\Debug\angle.dll
+C:\Users\uo269412\Desktop\Lab01\object.oriented\use.angle\bin\Debug\angle.pdb
+C:\Users\uo269412\Desktop\Lab01\object.oriented\use.angle\obj\Debug\use.angle.csprojAssemblyReference.cache
+C:\Users\uo269412\Desktop\Lab01\object.oriented\use.angle\obj\Debug\use.angle.csproj.CoreCompileInputs.cache
+C:\Users\uo269412\Desktop\Lab01\object.oriented\use.angle\obj\Debug\use.angle.csproj.CopyComplete
+C:\Users\uo269412\Desktop\Lab01\object.oriented\use.angle\obj\Debug\use.angle.exe
+C:\Users\uo269412\Desktop\Lab01\object.oriented\use.angle\obj\Debug\use.angle.pdb

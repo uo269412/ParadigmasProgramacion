@@ -1,0 +1,13 @@
+C:\Users\uo269412\Desktop\Lab01\object.oriented\angle\bin\Debug\angle.dll
+C:\Users\uo269412\Desktop\Lab01\object.oriented\angle\bin\Debug\angle.pdb
+C:\Users\uo269412\Desktop\Lab01\object.oriented\angle\obj\Debug\angle.csprojAssemblyReference.cache
+C:\Users\uo269412\Desktop\Lab01\object.oriented\angle\obj\Debug\UserControl1.g.cs
+C:\Users\uo269412\Desktop\Lab01\object.oriented\angle\obj\Debug\angle_MarkupCompile.cache
+C:\Users\uo269412\Desktop\Lab01\object.oriented\angle\obj\Debug\angle_MarkupCompile.lref
+C:\Users\uo269412\Desktop\Lab01\object.oriented\angle\obj\Debug\UserControl1.baml
+C:\Users\uo269412\Desktop\Lab01\object.oriented\angle\obj\Debug\angle.g.resources
+C:\Users\uo269412\Desktop\Lab01\object.oriented\angle\obj\Debug\angle.Properties.Resources.resources
+C:\Users\uo269412\Desktop\Lab01\object.oriented\angle\obj\Debug\angle.csproj.GenerateResource.cache
+C:\Users\uo269412\Desktop\Lab01\object.oriented\angle\obj\Debug\angle.csproj.CoreCompileInputs.cache
+C:\Users\uo269412\Desktop\Lab01\object.oriented\angle\obj\Debug\angle.dll
+C:\Users\uo269412\Desktop\Lab01\object.oriented\angle\obj\Debug\angle.pdb

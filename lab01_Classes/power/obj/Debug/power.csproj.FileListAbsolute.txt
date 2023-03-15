@@ -1,0 +1,6 @@
+C:\Users\uo269412\Desktop\Lab01\object.oriented\power\bin\Debug\power.exe.config
+C:\Users\uo269412\Desktop\Lab01\object.oriented\power\bin\Debug\power.exe
+C:\Users\uo269412\Desktop\Lab01\object.oriented\power\bin\Debug\power.pdb
+C:\Users\uo269412\Desktop\Lab01\object.oriented\power\obj\Debug\power.csproj.CoreCompileInputs.cache
+C:\Users\uo269412\Desktop\Lab01\object.oriented\power\obj\Debug\power.exe
+C:\Users\uo269412\Desktop\Lab01\object.oriented\power\obj\Debug\power.pdb
