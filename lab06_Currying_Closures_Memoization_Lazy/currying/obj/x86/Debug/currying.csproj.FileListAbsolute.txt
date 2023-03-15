@@ -1,0 +1,15 @@
+D:\TPP\lab6\currying\bin\Debug\currying.exe
+D:\TPP\lab6\currying\bin\Debug\currying.pdb
+D:\TPP\lab6\currying\obj\x86\Debug\currying.csproj.CoreCompileInputs.cache
+D:\TPP\lab6\currying\obj\x86\Debug\currying.exe
+D:\TPP\lab6\currying\obj\x86\Debug\currying.pdb
+E:\TPP\lab6\currying\bin\Debug\currying.exe
+E:\TPP\lab6\currying\bin\Debug\currying.pdb
+E:\TPP\lab6\currying\obj\x86\Debug\currying.csprojAssemblyReference.cache
+E:\TPP\lab6\currying\obj\x86\Debug\currying.exe
+E:\TPP\lab6\currying\obj\x86\Debug\currying.pdb
+E:\TPP\lab6\currying\bin\Debug\currying.exe.config
+E:\TPP\lab6\currying\bin\Debug\delegates.exe
+E:\TPP\lab6\currying\bin\Debug\delegates.pdb
+E:\TPP\lab6\currying\bin\Debug\delegates.exe.config
+E:\TPP\lab6\currying\obj\x86\Debug\currying.csproj.CopyComplete

@@ -1,0 +1,16 @@
+E:\TPP\lab5\delegates\test.extensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\TPP\lab5\delegates\test.extensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\TPP\lab5\delegates\test.extensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\TPP\lab5\delegates\test.extensions\bin\Debug\test.extensions.dll
+E:\TPP\lab5\delegates\test.extensions\bin\Debug\test.extensions.pdb
+E:\TPP\lab5\delegates\test.extensions\bin\Debug\delegates.exe
+E:\TPP\lab5\delegates\test.extensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\TPP\lab5\delegates\test.extensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\TPP\lab5\delegates\test.extensions\bin\Debug\delegates.pdb
+E:\TPP\lab5\delegates\test.extensions\bin\Debug\delegates.exe.config
+E:\TPP\lab5\delegates\test.extensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\TPP\lab5\delegates\test.extensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\TPP\lab5\delegates\test.extensions\obj\Debug\test.extensions.csprojAssemblyReference.cache
+E:\TPP\lab5\delegates\test.extensions\obj\Debug\test.extensions.csproj.CopyComplete
+E:\TPP\lab5\delegates\test.extensions\obj\Debug\test.extensions.dll
+E:\TPP\lab5\delegates\test.extensions\obj\Debug\test.extensions.pdb

@@ -1,0 +1,9 @@
+D:\TPP\lab6\generators\bin\Debug\generators.exe
+D:\TPP\lab6\generators\bin\Debug\generators.pdb
+D:\TPP\lab6\generators\obj\x86\Debug\generators.csprojAssemblyReference.cache
+D:\TPP\lab6\generators\obj\x86\Debug\generators.csproj.CoreCompileInputs.cache
+D:\TPP\lab6\generators\obj\x86\Debug\generators.exe
+D:\TPP\lab6\generators\obj\x86\Debug\generators.pdb
+E:\TPP\lab6\generators\obj\x86\Debug\generators.csprojAssemblyReference.cache
+E:\TPP\lab6\generators\obj\x86\Debug\generators.exe
+E:\TPP\lab6\generators\obj\x86\Debug\generators.pdb

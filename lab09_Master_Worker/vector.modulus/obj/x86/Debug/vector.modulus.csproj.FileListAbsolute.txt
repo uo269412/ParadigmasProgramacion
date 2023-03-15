@@ -1,0 +1,5 @@
+C:\Users\javie\Desktop\lab9\lab9\vector.modulus\obj\x86\Debug\vector.modulus.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\lab9\lab9\vector.modulus\bin\Debug\vector.modulus.exe
+C:\Users\javie\Desktop\lab9\lab9\vector.modulus\bin\Debug\vector.modulus.pdb
+C:\Users\javie\Desktop\lab9\lab9\vector.modulus\obj\x86\Debug\vector.modulus.exe
+C:\Users\javie\Desktop\lab9\lab9\vector.modulus\obj\x86\Debug\vector.modulus.pdb

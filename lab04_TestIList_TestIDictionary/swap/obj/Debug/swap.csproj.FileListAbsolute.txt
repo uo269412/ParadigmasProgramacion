@@ -1,0 +1,13 @@
+D:\TPP\lab4\lab04\swap\bin\Debug\swap.exe.config
+D:\TPP\lab4\lab04\swap\bin\Debug\swap.exe
+D:\TPP\lab4\lab04\swap\bin\Debug\swap.pdb
+D:\TPP\lab4\lab04\swap\obj\Debug\swap.csprojAssemblyReference.cache
+D:\TPP\lab4\lab04\swap\obj\Debug\swap.csproj.CoreCompileInputs.cache
+D:\TPP\lab4\lab04\swap\obj\Debug\swap.exe
+D:\TPP\lab4\lab04\swap\obj\Debug\swap.pdb
+E:\TPP\lab4\lab04\swap\bin\Debug\swap.exe.config
+E:\TPP\lab4\lab04\swap\bin\Debug\swap.exe
+E:\TPP\lab4\lab04\swap\bin\Debug\swap.pdb
+E:\TPP\lab4\lab04\swap\obj\Debug\swap.csprojAssemblyReference.cache
+E:\TPP\lab4\lab04\swap\obj\Debug\swap.exe
+E:\TPP\lab4\lab04\swap\obj\Debug\swap.pdb

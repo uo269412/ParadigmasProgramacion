@@ -1,0 +1,6 @@
+D:\TPP\lab2\extension.methods\bin\Debug\extension.methods.exe
+D:\TPP\lab2\extension.methods\bin\Debug\extension.methods.pdb
+D:\TPP\lab2\extension.methods\obj\x86\Debug\extension.methods.csprojAssemblyReference.cache
+D:\TPP\lab2\extension.methods\obj\x86\Debug\extension.methods.csproj.CoreCompileInputs.cache
+D:\TPP\lab2\extension.methods\obj\x86\Debug\extension.methods.exe
+D:\TPP\lab2\extension.methods\obj\x86\Debug\extension.methods.pdb

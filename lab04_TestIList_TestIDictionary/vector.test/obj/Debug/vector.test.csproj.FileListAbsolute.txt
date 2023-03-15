@@ -1,0 +1,13 @@
+E:\TPP\lab4\lab04\vector.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\TPP\lab4\lab04\vector.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\TPP\lab4\lab04\vector.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\TPP\lab4\lab04\vector.test\bin\Debug\vector.test.dll
+E:\TPP\lab4\lab04\vector.test\bin\Debug\vector.test.pdb
+E:\TPP\lab4\lab04\vector.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\TPP\lab4\lab04\vector.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\TPP\lab4\lab04\vector.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\TPP\lab4\lab04\vector.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\TPP\lab4\lab04\vector.test\obj\Debug\vector.test.csprojAssemblyReference.cache
+E:\TPP\lab4\lab04\vector.test\obj\Debug\vector.test.csproj.CopyComplete
+E:\TPP\lab4\lab04\vector.test\obj\Debug\vector.test.dll
+E:\TPP\lab4\lab04\vector.test\obj\Debug\vector.test.pdb

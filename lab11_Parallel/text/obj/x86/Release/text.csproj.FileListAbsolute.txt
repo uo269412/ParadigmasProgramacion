@@ -1,0 +1,5 @@
+C:\Users\javie\Desktop\lab11\lab11\text\bin\Release\text.exe
+C:\Users\javie\Desktop\lab11\lab11\text\bin\Release\text.pdb
+C:\Users\javie\Desktop\lab11\lab11\text\obj\x86\Release\text.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\lab11\lab11\text\obj\x86\Release\text.exe
+C:\Users\javie\Desktop\lab11\lab11\text\obj\x86\Release\text.pdb

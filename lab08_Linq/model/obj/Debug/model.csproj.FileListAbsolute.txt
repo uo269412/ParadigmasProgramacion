@@ -1,0 +1,5 @@
+C:\Users\javie\Desktop\lab8\lab8\model\bin\Debug\model.dll
+C:\Users\javie\Desktop\lab8\lab8\model\bin\Debug\model.pdb
+C:\Users\javie\Desktop\lab8\lab8\model\obj\Debug\model.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\lab8\lab8\model\obj\Debug\model.dll
+C:\Users\javie\Desktop\lab8\lab8\model\obj\Debug\model.pdb

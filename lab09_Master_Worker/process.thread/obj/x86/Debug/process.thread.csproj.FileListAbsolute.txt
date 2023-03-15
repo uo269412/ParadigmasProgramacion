@@ -1,0 +1,5 @@
+C:\Users\javie\Desktop\lab9\lab9\process.thread\bin\Debug\process.thread.exe
+C:\Users\javie\Desktop\lab9\lab9\process.thread\bin\Debug\process.thread.pdb
+C:\Users\javie\Desktop\lab9\lab9\process.thread\obj\x86\Debug\process.thread.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\lab9\lab9\process.thread\obj\x86\Debug\process.thread.exe
+C:\Users\javie\Desktop\lab9\lab9\process.thread\obj\x86\Debug\process.thread.pdb

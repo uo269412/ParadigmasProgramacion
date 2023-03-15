@@ -1,0 +1,4 @@
+E:\TPP\lab02.list.linked\linked.list\bin\Release\linked.list.dll
+E:\TPP\lab02.list.linked\linked.list\bin\Release\linked.list.pdb
+E:\TPP\lab02.list.linked\linked.list\obj\Release\linked.list.dll
+E:\TPP\lab02.list.linked\linked.list\obj\Release\linked.list.pdb

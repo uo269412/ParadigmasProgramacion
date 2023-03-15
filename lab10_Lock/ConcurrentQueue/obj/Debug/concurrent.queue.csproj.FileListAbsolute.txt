@@ -1,0 +1,8 @@
+C:\Users\javie\Desktop\lab10\lab10\ConcurrentQueue\bin\Debug\ConcurrentQueue.dll
+C:\Users\javie\Desktop\lab10\lab10\ConcurrentQueue\bin\Debug\ConcurrentQueue.pdb
+C:\Users\javie\Desktop\lab10\lab10\ConcurrentQueue\bin\Debug\linked.list.dll
+C:\Users\javie\Desktop\lab10\lab10\ConcurrentQueue\bin\Debug\linked.list.pdb
+C:\Users\javie\Desktop\lab10\lab10\ConcurrentQueue\obj\Debug\concurrent.queue.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\lab10\lab10\ConcurrentQueue\obj\Debug\concurrent.queue.csproj.CopyComplete
+C:\Users\javie\Desktop\lab10\lab10\ConcurrentQueue\obj\Debug\ConcurrentQueue.dll
+C:\Users\javie\Desktop\lab10\lab10\ConcurrentQueue\obj\Debug\ConcurrentQueue.pdb

@@ -1,0 +1,8 @@
+C:\Users\javie\Desktop\lab9\lab9\context.switching\bin\Debug\context.switching.exe
+C:\Users\javie\Desktop\lab9\lab9\context.switching\bin\Debug\context.switching.pdb
+C:\Users\javie\Desktop\lab9\lab9\context.switching\bin\Debug\vector.modulus.exe
+C:\Users\javie\Desktop\lab9\lab9\context.switching\bin\Debug\vector.modulus.pdb
+C:\Users\javie\Desktop\lab9\lab9\context.switching\obj\x86\Debug\context.switching.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\lab9\lab9\context.switching\obj\x86\Debug\context.switching.csproj.CopyComplete
+C:\Users\javie\Desktop\lab9\lab9\context.switching\obj\x86\Debug\context.switching.exe
+C:\Users\javie\Desktop\lab9\lab9\context.switching\obj\x86\Debug\context.switching.pdb

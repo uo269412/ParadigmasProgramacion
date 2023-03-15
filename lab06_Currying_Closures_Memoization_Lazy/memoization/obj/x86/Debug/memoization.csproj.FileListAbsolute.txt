@@ -1,0 +1,11 @@
+D:\TPP\lab6\memoization\bin\Debug\memoization.exe
+D:\TPP\lab6\memoization\bin\Debug\memoization.pdb
+D:\TPP\lab6\memoization\obj\x86\Debug\memoization.csprojAssemblyReference.cache
+D:\TPP\lab6\memoization\obj\x86\Debug\memoization.csproj.CoreCompileInputs.cache
+D:\TPP\lab6\memoization\obj\x86\Debug\memoization.exe
+D:\TPP\lab6\memoization\obj\x86\Debug\memoization.pdb
+E:\TPP\lab6\memoization\obj\x86\Debug\memoization.csprojAssemblyReference.cache
+E:\TPP\lab6\memoization\obj\x86\Debug\memoization.exe
+E:\TPP\lab6\memoization\obj\x86\Debug\memoization.pdb
+E:\TPP\lab6\memoization\bin\Debug\memoization.exe
+E:\TPP\lab6\memoization\bin\Debug\memoization.pdb

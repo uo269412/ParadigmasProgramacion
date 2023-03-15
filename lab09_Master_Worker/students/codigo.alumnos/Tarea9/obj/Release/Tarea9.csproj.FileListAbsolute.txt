@@ -1,0 +1,6 @@
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\Tarea9\bin\Release\Practica9.exe.config
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\Tarea9\bin\Release\Practica9.exe
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\Tarea9\bin\Release\Practica9.pdb
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\Tarea9\obj\Release\Tarea9.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\Tarea9\obj\Release\Practica9.exe
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\Tarea9\obj\Release\Practica9.pdb

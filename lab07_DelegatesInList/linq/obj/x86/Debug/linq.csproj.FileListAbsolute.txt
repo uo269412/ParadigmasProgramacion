@@ -1,0 +1,9 @@
+D:\TPP\lab7\linq\bin\Debug\linq.exe
+D:\TPP\lab7\linq\bin\Debug\linq.pdb
+D:\TPP\lab7\linq\obj\x86\Debug\linq.csprojAssemblyReference.cache
+D:\TPP\lab7\linq\obj\x86\Debug\linq.csproj.CoreCompileInputs.cache
+D:\TPP\lab7\linq\obj\x86\Debug\linq.exe
+D:\TPP\lab7\linq\obj\x86\Debug\linq.pdb
+E:\TPP\lab7\linq\obj\x86\Debug\linq.csprojAssemblyReference.cache
+E:\TPP\lab7\linq\obj\x86\Debug\linq.exe
+E:\TPP\lab7\linq\obj\x86\Debug\linq.pdb
