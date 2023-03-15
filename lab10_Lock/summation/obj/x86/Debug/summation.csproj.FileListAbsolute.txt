@@ -1,0 +1,5 @@
+C:\Users\javie\Desktop\lab10\lab10\summation\bin\Debug\summation.exe
+C:\Users\javie\Desktop\lab10\lab10\summation\bin\Debug\summation.pdb
+C:\Users\javie\Desktop\lab10\lab10\summation\obj\x86\Debug\summation.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\lab10\lab10\summation\obj\x86\Debug\summation.exe
+C:\Users\javie\Desktop\lab10\lab10\summation\obj\x86\Debug\summation.pdb

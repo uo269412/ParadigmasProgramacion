@@ -1,0 +1,16 @@
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\test.sequentialVSConcurrent\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\test.sequentialVSConcurrent\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\test.sequentialVSConcurrent\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\test.sequentialVSConcurrent\bin\Release\test.sequentialVSConcurrent.dll
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\test.sequentialVSConcurrent\bin\Release\test.sequentialVSConcurrent.pdb
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\test.sequentialVSConcurrent\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\test.sequentialVSConcurrent\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\test.sequentialVSConcurrent\bin\Release\Practica9.exe
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\test.sequentialVSConcurrent\bin\Release\Practica9.pdb
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\test.sequentialVSConcurrent\bin\Release\Practica9.exe.config
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\test.sequentialVSConcurrent\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\test.sequentialVSConcurrent\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\test.sequentialVSConcurrent\obj\Release\test.sequentialVSConcurrent.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\test.sequentialVSConcurrent\obj\Release\test.sequentialVSConcurrent.csproj.CopyComplete
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\test.sequentialVSConcurrent\obj\Release\test.sequentialVSConcurrent.dll
+C:\Users\javie\Desktop\lab9\lab9\students\codigo.alumnos\test.sequentialVSConcurrent\obj\Release\test.sequentialVSConcurrent.pdb

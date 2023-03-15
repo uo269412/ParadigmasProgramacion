@@ -1,0 +1,9 @@
+E:\TPP\lab3\stack\obj\Release\stack.csprojAssemblyReference.cache
+E:\TPP\lab3\stack\bin\Release\stack.exe.config
+E:\TPP\lab3\stack\bin\Release\stack.exe
+E:\TPP\lab3\stack\bin\Release\stack.pdb
+E:\TPP\lab3\stack\bin\Release\linked.list.dll
+E:\TPP\lab3\stack\bin\Release\linked.list.pdb
+E:\TPP\lab3\stack\obj\Release\stack.csproj.CopyComplete
+E:\TPP\lab3\stack\obj\Release\stack.exe
+E:\TPP\lab3\stack\obj\Release\stack.pdb

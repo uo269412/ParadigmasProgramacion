@@ -1,0 +1,5 @@
+C:\Users\javie\Desktop\lab10\lab10\accounts\bin\Debug\TPP.Laboratory.Concurrency.Lab10.exe
+C:\Users\javie\Desktop\lab10\lab10\accounts\bin\Debug\TPP.Laboratory.Concurrency.Lab10.pdb
+C:\Users\javie\Desktop\lab10\lab10\accounts\obj\x86\Debug\accounts.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\lab10\lab10\accounts\obj\x86\Debug\TPP.Laboratory.Concurrency.Lab10.exe
+C:\Users\javie\Desktop\lab10\lab10\accounts\obj\x86\Debug\TPP.Laboratory.Concurrency.Lab10.pdb

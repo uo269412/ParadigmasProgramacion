@@ -1,0 +1,6 @@
+C:\Users\javie\Desktop\lab10\lab10\producer.consumer\bin\Debug\producer.consumer.exe.config
+C:\Users\javie\Desktop\lab10\lab10\producer.consumer\bin\Debug\producer.consumer.exe
+C:\Users\javie\Desktop\lab10\lab10\producer.consumer\bin\Debug\producer.consumer.pdb
+C:\Users\javie\Desktop\lab10\lab10\producer.consumer\obj\Debug\producer.consumer.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\lab10\lab10\producer.consumer\obj\Debug\producer.consumer.exe
+C:\Users\javie\Desktop\lab10\lab10\producer.consumer\obj\Debug\producer.consumer.pdb

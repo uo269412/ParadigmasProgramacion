@@ -1,0 +1,10 @@
+C:\Users\javie\Desktop\lab9\lab9\thread.creation\bin\Debug\thread.creation.exe
+C:\Users\javie\Desktop\lab9\lab9\thread.creation\bin\Debug\thread.creation.pdb
+C:\Users\javie\Desktop\lab9\lab9\thread.creation\obj\x86\Debug\thread.creation.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\lab9\lab9\thread.creation\obj\x86\Debug\thread.creation.exe
+C:\Users\javie\Desktop\lab9\lab9\thread.creation\obj\x86\Debug\thread.creation.pdb
+C:\Users\javie\Desktop\TPP ALL LABS\3_CONCURRENT\lab09_Master_Worker\thread.creation\bin\Debug\thread.creation.exe
+C:\Users\javie\Desktop\TPP ALL LABS\3_CONCURRENT\lab09_Master_Worker\thread.creation\bin\Debug\thread.creation.pdb
+C:\Users\javie\Desktop\TPP ALL LABS\3_CONCURRENT\lab09_Master_Worker\thread.creation\obj\x86\Debug\thread.creation.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\TPP ALL LABS\3_CONCURRENT\lab09_Master_Worker\thread.creation\obj\x86\Debug\thread.creation.exe
+C:\Users\javie\Desktop\TPP ALL LABS\3_CONCURRENT\lab09_Master_Worker\thread.creation\obj\x86\Debug\thread.creation.pdb

@@ -1,0 +1,4 @@
+C:\Users\javie\Desktop\new version\lab01.list.linked\node\bin\Debug\node.dll
+C:\Users\javie\Desktop\new version\lab01.list.linked\node\bin\Debug\node.pdb
+C:\Users\javie\Desktop\new version\lab01.list.linked\node\obj\Debug\node.dll
+C:\Users\javie\Desktop\new version\lab01.list.linked\node\obj\Debug\node.pdb

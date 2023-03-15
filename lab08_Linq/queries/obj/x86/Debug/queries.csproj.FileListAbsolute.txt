@@ -1,0 +1,8 @@
+C:\Users\javie\Desktop\lab8\lab8\queries\bin\Debug\queries.exe
+C:\Users\javie\Desktop\lab8\lab8\queries\bin\Debug\queries.pdb
+C:\Users\javie\Desktop\lab8\lab8\queries\bin\Debug\model.dll
+C:\Users\javie\Desktop\lab8\lab8\queries\bin\Debug\model.pdb
+C:\Users\javie\Desktop\lab8\lab8\queries\obj\x86\Debug\queries.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\lab8\lab8\queries\obj\x86\Debug\queries.csproj.CopyComplete
+C:\Users\javie\Desktop\lab8\lab8\queries\obj\x86\Debug\queries.exe
+C:\Users\javie\Desktop\lab8\lab8\queries\obj\x86\Debug\queries.pdb

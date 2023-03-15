@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "closures", "closures\closures.csproj", "{129A24E8-7DCF-4F39-BB2B-893620210F8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonacci", "generators\fibonacci.csproj", "{C1C411BC-76F9-40C7-AA73-1AAF72481E98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "memoization", "memoization\memoization.csproj", "{4D2C7186-83D6-4C95-B755-9E9FCB82D510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "currying", "currying\currying.csproj", "{BEDC1040-43E1-4818-AB3E-36D73D140DA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegates", "..\lab5\delegates\delegates\delegates.csproj", "{1D998041-607A-4EC7-A6BC-BD36D5ED876B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{129A24E8-7DCF-4F39-BB2B-893620210F8F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{129A24E8-7DCF-4F39-BB2B-893620210F8F}.Debug|x86.ActiveCfg = Debug|x86
+		{129A24E8-7DCF-4F39-BB2B-893620210F8F}.Debug|x86.Build.0 = Debug|x86
+		{129A24E8-7DCF-4F39-BB2B-893620210F8F}.Release|Any CPU.ActiveCfg = Release|x86
+		{129A24E8-7DCF-4F39-BB2B-893620210F8F}.Release|x86.ActiveCfg = Release|x86
+		{129A24E8-7DCF-4F39-BB2B-893620210F8F}.Release|x86.Build.0 = Release|x86
+		{C1C411BC-76F9-40C7-AA73-1AAF72481E98}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C1C411BC-76F9-40C7-AA73-1AAF72481E98}.Debug|x86.ActiveCfg = Debug|x86
+		{C1C411BC-76F9-40C7-AA73-1AAF72481E98}.Debug|x86.Build.0 = Debug|x86
+		{C1C411BC-76F9-40C7-AA73-1AAF72481E98}.Release|Any CPU.ActiveCfg = Release|x86
+		{C1C411BC-76F9-40C7-AA73-1AAF72481E98}.Release|x86.ActiveCfg = Release|x86
+		{C1C411BC-76F9-40C7-AA73-1AAF72481E98}.Release|x86.Build.0 = Release|x86
+		{4D2C7186-83D6-4C95-B755-9E9FCB82D510}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{4D2C7186-83D6-4C95-B755-9E9FCB82D510}.Debug|x86.ActiveCfg = Debug|x86
+		{4D2C7186-83D6-4C95-B755-9E9FCB82D510}.Debug|x86.Build.0 = Debug|x86
+		{4D2C7186-83D6-4C95-B755-9E9FCB82D510}.Release|Any CPU.ActiveCfg = Release|x86
+		{4D2C7186-83D6-4C95-B755-9E9FCB82D510}.Release|x86.ActiveCfg = Release|x86
+		{4D2C7186-83D6-4C95-B755-9E9FCB82D510}.Release|x86.Build.0 = Release|x86
+		{BEDC1040-43E1-4818-AB3E-36D73D140DA5}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{BEDC1040-43E1-4818-AB3E-36D73D140DA5}.Debug|x86.ActiveCfg = Debug|x86
+		{BEDC1040-43E1-4818-AB3E-36D73D140DA5}.Debug|x86.Build.0 = Debug|x86
+		{BEDC1040-43E1-4818-AB3E-36D73D140DA5}.Release|Any CPU.ActiveCfg = Release|x86
+		{BEDC1040-43E1-4818-AB3E-36D73D140DA5}.Release|x86.ActiveCfg = Release|x86
+		{BEDC1040-43E1-4818-AB3E-36D73D140DA5}.Release|x86.Build.0 = Release|x86
+		{1D998041-607A-4EC7-A6BC-BD36D5ED876B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D998041-607A-4EC7-A6BC-BD36D5ED876B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D998041-607A-4EC7-A6BC-BD36D5ED876B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1D998041-607A-4EC7-A6BC-BD36D5ED876B}.Debug|x86.Build.0 = Debug|Any CPU
+		{1D998041-607A-4EC7-A6BC-BD36D5ED876B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D998041-607A-4EC7-A6BC-BD36D5ED876B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D998041-607A-4EC7-A6BC-BD36D5ED876B}.Release|x86.ActiveCfg = Release|Any CPU
+		{1D998041-607A-4EC7-A6BC-BD36D5ED876B}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CC5FF03-2866-4D2A-A3A5-DF066FD8EE5F}
+	EndGlobalSection
+EndGlobal

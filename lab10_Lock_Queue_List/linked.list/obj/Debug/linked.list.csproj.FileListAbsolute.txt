@@ -1,0 +1,55 @@
+C:\Users\javie\Desktop\new version\lab01.list.linked\linked.list\bin\Debug\linked.list.dll
+C:\Users\javie\Desktop\new version\lab01.list.linked\linked.list\bin\Debug\linked.list.pdb
+C:\Users\javie\Desktop\new version\lab01.list.linked\linked.list\bin\Debug\node.dll
+C:\Users\javie\Desktop\new version\lab01.list.linked\linked.list\bin\Debug\node.pdb
+C:\Users\javie\Desktop\new version\lab01.list.linked\linked.list\obj\Debug\linked.list.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\new version\lab01.list.linked\linked.list\obj\Debug\linked.list.csproj.CopyComplete
+C:\Users\javie\Desktop\new version\lab01.list.linked\linked.list\obj\Debug\linked.list.dll
+C:\Users\javie\Desktop\new version\lab01.list.linked\linked.list\obj\Debug\linked.list.pdb
+C:\Users\javie\Desktop\lab01.list.linked\linked.list\bin\Debug\linked.list.dll
+C:\Users\javie\Desktop\lab01.list.linked\linked.list\bin\Debug\linked.list.pdb
+C:\Users\javie\Desktop\lab01.list.linked\linked.list\obj\Debug\linked.list.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\lab01.list.linked\linked.list\obj\Debug\linked.list.dll
+C:\Users\javie\Desktop\lab01.list.linked\linked.list\obj\Debug\linked.list.pdb
+E:\TPP\lab01.list.linked\linked.list\bin\Debug\linked.list.dll
+E:\TPP\lab01.list.linked\linked.list\bin\Debug\linked.list.pdb
+E:\TPP\lab01.list.linked\linked.list\obj\Debug\linked.list.csprojAssemblyReference.cache
+E:\TPP\lab01.list.linked\linked.list\obj\Debug\linked.list.dll
+E:\TPP\lab01.list.linked\linked.list\obj\Debug\linked.list.pdb
+E:\TPP\lab02.list.linked\linked.list\bin\Debug\linked.list.dll
+E:\TPP\lab02.list.linked\linked.list\bin\Debug\linked.list.pdb
+E:\TPP\lab02.list.linked\linked.list\obj\Debug\linked.list.csprojAssemblyReference.cache
+E:\TPP\lab02.list.linked\linked.list\obj\Debug\linked.list.dll
+E:\TPP\lab02.list.linked\linked.list\obj\Debug\linked.list.pdb
+D:\TPP\lab03.task\linked.list\bin\Debug\linked.list.dll
+D:\TPP\lab03.task\linked.list\bin\Debug\linked.list.pdb
+D:\TPP\lab03.task\linked.list\obj\Debug\linked.list.csprojAssemblyReference.cache
+D:\TPP\lab03.task\linked.list\obj\Debug\linked.list.csproj.CoreCompileInputs.cache
+D:\TPP\lab03.task\linked.list\obj\Debug\linked.list.dll
+D:\TPP\lab03.task\linked.list\obj\Debug\linked.list.pdb
+E:\TPP\lab03.task\linked.list\bin\Debug\linked.list.dll
+E:\TPP\lab03.task\linked.list\bin\Debug\linked.list.pdb
+E:\TPP\lab03.task\linked.list\obj\Debug\linked.list.csprojAssemblyReference.cache
+E:\TPP\lab03.task\linked.list\obj\Debug\linked.list.dll
+E:\TPP\lab03.task\linked.list\obj\Debug\linked.list.pdb
+D:\TPP\lab7\linked.list\bin\Debug\linked.list.dll
+D:\TPP\lab7\linked.list\bin\Debug\linked.list.pdb
+D:\TPP\lab7\linked.list\obj\Debug\linked.list.csprojAssemblyReference.cache
+D:\TPP\lab7\linked.list\obj\Debug\linked.list.csproj.CoreCompileInputs.cache
+D:\TPP\lab7\linked.list\obj\Debug\linked.list.dll
+D:\TPP\lab7\linked.list\obj\Debug\linked.list.pdb
+E:\TPP\lab7\linked.list\bin\Debug\linked.list.dll
+E:\TPP\lab7\linked.list\bin\Debug\linked.list.pdb
+E:\TPP\lab7\linked.list\obj\Debug\linked.list.csprojAssemblyReference.cache
+E:\TPP\lab7\linked.list\obj\Debug\linked.list.dll
+E:\TPP\lab7\linked.list\obj\Debug\linked.list.pdb
+C:\Users\javie\Desktop\lab7\linked.list\bin\Debug\linked.list.dll
+C:\Users\javie\Desktop\lab7\linked.list\bin\Debug\linked.list.pdb
+C:\Users\javie\Desktop\lab7\linked.list\obj\Debug\linked.list.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\lab7\linked.list\obj\Debug\linked.list.dll
+C:\Users\javie\Desktop\lab7\linked.list\obj\Debug\linked.list.pdb
+C:\Users\javie\Desktop\lab10\lab10\linked.list\bin\Debug\linked.list.dll
+C:\Users\javie\Desktop\lab10\lab10\linked.list\bin\Debug\linked.list.pdb
+C:\Users\javie\Desktop\lab10\lab10\linked.list\obj\Debug\linked.list.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\lab10\lab10\linked.list\obj\Debug\linked.list.dll
+C:\Users\javie\Desktop\lab10\lab10\linked.list\obj\Debug\linked.list.pdb

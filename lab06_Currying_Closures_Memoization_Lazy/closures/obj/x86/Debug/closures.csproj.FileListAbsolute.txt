@@ -1,0 +1,6 @@
+D:\TPP\lab6\closures\bin\Debug\closures.exe
+D:\TPP\lab6\closures\bin\Debug\closures.pdb
+D:\TPP\lab6\closures\obj\x86\Debug\closures.csprojAssemblyReference.cache
+D:\TPP\lab6\closures\obj\x86\Debug\closures.csproj.CoreCompileInputs.cache
+D:\TPP\lab6\closures\obj\x86\Debug\closures.exe
+D:\TPP\lab6\closures\obj\x86\Debug\closures.pdb

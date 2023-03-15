@@ -1,0 +1,5 @@
+E:\TPP\lab6\generators\obj\x86\Debug\fibonacci.csprojAssemblyReference.cache
+E:\TPP\lab6\generators\obj\x86\Debug\generators.exe
+E:\TPP\lab6\generators\obj\x86\Debug\generators.pdb
+E:\TPP\lab6\generators\bin\Debug\generators.exe
+E:\TPP\lab6\generators\bin\Debug\generators.pdb

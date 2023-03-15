@@ -1,0 +1,5 @@
+C:\Users\javie\Desktop\lab10\lab10\colors\bin\Debug\colors.exe
+C:\Users\javie\Desktop\lab10\lab10\colors\bin\Debug\colors.pdb
+C:\Users\javie\Desktop\lab10\lab10\colors\obj\x86\Debug\colors.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\lab10\lab10\colors\obj\x86\Debug\colors.exe
+C:\Users\javie\Desktop\lab10\lab10\colors\obj\x86\Debug\colors.pdb

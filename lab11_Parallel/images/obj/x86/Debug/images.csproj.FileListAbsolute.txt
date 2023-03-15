@@ -1,0 +1,5 @@
+C:\Users\javie\Desktop\lab11\lab11\images\bin\Debug\images.exe
+C:\Users\javie\Desktop\lab11\lab11\images\bin\Debug\images.pdb
+C:\Users\javie\Desktop\lab11\lab11\images\obj\x86\Debug\images.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\lab11\lab11\images\obj\x86\Debug\images.exe
+C:\Users\javie\Desktop\lab11\lab11\images\obj\x86\Debug\images.pdb
